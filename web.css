@@ -1,0 +1,203 @@
+html{
+  height: 100%;
+}
+body{
+  background: #17ffe9;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: 'Poppins', sans-serif;
+  background-attachment: fixed
+
+
+}
+.serverhead{
+  background-color:transparent;
+  height: 200px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.serverhead2{
+  background-color:transparent;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.navbar{
+  height: 50px;
+  background-color: #2d394352;
+  margin-top: 0px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.navmenu{
+  padding-top: 15px;
+}
+.menu{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+}
+.text{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.games{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+}
+.bedwars{
+  border: none 2px solid;
+  width: 750px;
+  height: 400px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+}
+.con{
+  border: none 2px solid;
+  width: 750px;
+  height: 1150px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+}
+.con2{
+  border: none 2px solid;
+  width: 750px;
+  height: 1150px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.con3{
+  border: none 2px solid;
+  width: 750px;
+  height: 250px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.con4{
+  border: none 2px solid;
+  width: 750px;
+  height: 250px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+}
+.con5{
+  border: none 2px solid;
+  width: 750px;
+  height: 350px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+}
+.con6{
+  border: none 2px solid;
+  width: 750px;
+  height: 450px;
+  border-radius: 0.99rem;
+  background-color: rgba(0, 0, 0, 0.63);
+  text-align: center;
+  margin-bottom: 100px;
+}
+.con7{
+  border: none 2px solid;
+  width: 750px;
+  height: 10px;
+  border-radius: 0.99rem;
+  background: #56CCF2;
+background: -webkit-linear-gradient(to right, #2F80ED, #56CCF2);
+background: linear-gradient(to right, #2F80ED, #56CCF2); 
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: -30px;
+}
+.con8{
+  border: none 2px solid;
+  width: 750px;
+  height: 10px;
+  border-radius: 0.99rem;
+  background: transparent;
+  text-align: center;
+  margin-bottom: 100px;
+}
+.bedwars-text{
+  font-size: 40px;
+  color: white;
+}
+.bedwars-img{
+  height: 400px;
+  width: 540;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0.6rem;
+  margin-top: 20px;
+}
+.bedwars-icon{
+  margin-top: 20px;
+  height: 150px;
+  width: 150px;
+  border-radius: 100rem;
+}
+.commands{
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+  margin-top: 20px;
+}
+.fa-check-circle{
+  color: lightskyblue;
+}
+.fa-comment-alt{
+  color: lightskyblue;
+}
+.fa-question-circle{
+  color: lightskyblue;
+}
+.fa-handshake{
+  color: lightskyblue;
+}
+.fa-music{
+  color: lightskyblue;
+}
+.fa-circle{
+  color: limegreen;
+}
+.fa-soundcloud{
+  color: #fe8c00;
+}
+.fa-youtube{
+  color: #f83600;
+} 
+.fa-copyright{
+  color: #2F80ED;
+}
